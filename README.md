@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Morris 👋
+
+## Morre about myself
+I'm a full-stack software engineer who specializes in using Javascript, React, Redux, and Rails to build software solutions for small businesses."
 
 <!--
 **Emmykage/Emmykage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
