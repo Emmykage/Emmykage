@@ -1,6 +1,6 @@
 ### Hi there, I'm Morris 👋
 
-## Morre about myself
+## More about myself
 I'm a full-stack software engineer who specializes in using Javascript, React, Redux, and Rails to build software solutions for small businesses."
 
 <!--
@@ -8,7 +8,7 @@ I'm a full-stack software engineer who specializes in using Javascript, React, R
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
