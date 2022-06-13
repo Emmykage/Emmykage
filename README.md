@@ -1,10 +1,10 @@
 # Hi there, I'm Morris 👋
 
-## about myself
-I'm a full-stack Software engineer who is passionate about building projects and solving every day challenges. I also enjoy making contributions to open source projects and helping small businesses handle technical challenges. yea i'm that generous- lol jk. 
-When i'm not obsessing over Javascript, i enjoy working React, Redux, and Rails to build software solutions."
+### about myself
+  I'm a full-stack Software engineer who is passionate about building projects and solving every day challenges. I also enjoy making contributions to open source projects and helping small businesses handle technical challenges. yea i'm that generous- lol jk. 
+  When i'm not obsessing over Javascript, i enjoy working React, Redux, and Rails to build software solutions."
 
-I am currently enrolled at Microverse an online remote diversed learning platform where i get to work and build everday projects with amazing people from across globe. I 
+  I am currently enrolled at Microverse an online remote diversed learning platform where i get to work and build everday projects with amazing people from across globe. I 
 I’m currently available for new opportunities
 
 👯 I’m looking to collaborate on Software Development Projects
