@@ -1,4 +1,4 @@
-### Hi there, I'm Morris 👋
+#### Hi there, I'm Morris 👋
 
 ## More about myself
 I'm a full-stack software engineer who specializes in using Javascript, React, Redux, and Rails to build software solutions for small businesses."
