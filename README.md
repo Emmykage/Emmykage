@@ -10,9 +10,6 @@ I am currently enrolled at Microverse an online remote diversed learning platfor
 I’m currently available for new opportunities
 </p>  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emmykage&label=Profile%20views&color=0e75b6&style=flat" alt="emmykage" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmykage" alt="emmykage" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://emmykage.github.io/portfolio/](https://emmykage.github.io/portfolio/)
 
