@@ -13,7 +13,7 @@ I’m currently available for new opportunities
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://emmykage.github.io/portfolio/)
 
-- Emmail at [Email](https://emmykage.github.io/portfolio/)
+- Email at [Email](https://emmykage.github.io/portfolio/)
 
 - 💬 Ask me about **Javascript, react**
 
