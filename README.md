@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi👋,..I'm Morris  </h1>
+<h1 align="left">Hi👋, I'm Morris  </h1>
 <h3 align="left">Full-Stack Software Developer from Nigeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
